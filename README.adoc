@@ -1,0 +1,28 @@
+= Techmakers Github-copilot
+
+== Prérequis
+
+VsCode installé sur votre poste https://code.visualstudio.com
+Un compte discord https://discord.com
+Un compte github https://github.com
+Un environement de developpement de votre choix
+
+== Presentation de l'outil
+
+Github copilot vous propose une autocomplétion propulser par IA pour votre code.
+
+Basé sur l'analyse des repos sur github, Github copilot vous propose des suggestions de code plutôt pertinentes.
+
+https://github.com/features/copilot/
+
+== Codons !
+
+Pour cela nous allons coder une petite application pour vous montrer comment utiliser Github copilot.
+
+Le but de cette application sera d'afficher des blagues de la facon dont vous le souhaitez.
+
+Les données seront données par le site suivant: https://www.blagues-api.fr
+
+Pour vous connecter sur le site il faudrait rejoindre le serveur discord.
+
+Pour l'implémentation laissez vous guider par votre instinct (et par votre copilot ;) )
