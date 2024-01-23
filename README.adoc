@@ -1,11 +1,14 @@
-= Techmakers Github-copilot
+= DejnTech Github-copilot
+
+== Introduction
+
 
 == Prérequis
 
-VsCode installé sur votre poste https://code.visualstudio.com
-Un compte discord https://discord.com
-Un compte github https://github.com
-Un environement de developpement de votre choix
+* VsCode installé sur votre poste https://code.visualstudio.com
+* Un compte discord https://discord.com
+* Un compte github https://github.com
+* Un environement de developpement de votre choix
 
 == Presentation de l'outil
 
