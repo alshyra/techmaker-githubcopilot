@@ -5,12 +5,8 @@
 # It watches file changes and reconvert the presentation on save using inotify
 # Finally it starts a light http server using ruby and httpd
 
-if [ ! -d reveal.js ]; then
-    git clone https://github.com/hakimel/reveal.js.git --depth 1 --branch=master
-    cd reveal.js
-    npm install
-    npm run build
-    cd ..
+if [ ! -d slides/reveal.js ]; then
+    cp -r /tmp/reveal.js reveal.js
 fi;
 
 asciidoctor-revealjs pres.adoc
